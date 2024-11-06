@@ -69,8 +69,9 @@ export default {
 };
 </script>
 
+
 <style>
-/* Global styles */
+
 .btn {
   padding: 0.8rem 1rem 0.7rem;
   border: 0.2rem solid #4d4d4d;

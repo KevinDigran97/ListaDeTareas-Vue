@@ -9,7 +9,7 @@ Lista de tareas para entrevista
 yarn
 ```
 
-### Compilacion de proyecto 
+### Compilacion de proyecto en entorno de desarrollo
 
 ```sh
 yarn dev

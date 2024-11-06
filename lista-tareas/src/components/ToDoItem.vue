@@ -109,7 +109,7 @@ export default {
   margin-top: 0;
   padding: 5px;
   border: 2px solid #0b0c0c;
-  border-radius: 0;
+  border-radius: 2px;
   -webkit-appearance: none;
   -moz-appearance: none;
   appearance: none;
@@ -165,10 +165,7 @@ export default {
   border: 2px solid currentColor;
   background: transparent;
 }
-.custom-checkbox > input[type="checkbox"]:focus + label::before {
-  border-width: 4px;
-  outline: 3px dashed #228bec;
-}
+
 .custom-checkbox > label::after {
   box-sizing: content-box;
   content: "";

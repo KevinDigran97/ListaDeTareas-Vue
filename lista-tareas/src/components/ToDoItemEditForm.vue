@@ -63,7 +63,7 @@ export default {
   font-family: Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  color: #0b0c0c;
+  color: #ffffff;
   display: block;
   margin-bottom: 5px;
 }
